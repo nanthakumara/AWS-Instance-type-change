@@ -1,5 +1,5 @@
 # AWS-Instance-type-change
-#Changing the Instance type through AWS Lambda using Python boto3
+Changing the Instance type through AWS Lambda using Python boto3
 The available python script can be run through AWS Lambda. 
 This is the basic script which allow us to change the Instance type by specifying the Instance ID that want to be change the Type.
 
