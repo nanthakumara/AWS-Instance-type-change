@@ -1,2 +1,2 @@
 # AWS-Instance-type-change
-Changing the Instance type change through AWS Lambda function using Python boto3
+Changing the Instance type through AWS Lambda using Python boto3
