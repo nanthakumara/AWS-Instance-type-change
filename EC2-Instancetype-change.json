@@ -1,0 +1,30 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "ec2:DescribeInstances",
+                "ec2:DescribeTags",
+                "ec2:DescribeVpnConnections",
+                "ec2:DescribeRegions",
+                "ec2:DescribeVolumesModifications",
+                "ec2:GetHostReservationPurchasePreview",
+                "ec2:StopInstances",
+                "ec2:GetConsoleScreenshot",
+                "ec2:GetReservedInstancesExchangeQuote",
+                "ec2:GetConsoleOutput",
+                "ec2:GetPasswordData",
+                "ec2:GetLaunchTemplateData",
+                "ec2:DescribeScheduledInstances",
+                "ec2:StartInstances",
+                "ec2:DescribeScheduledInstanceAvailability",
+                "ec2:DescribeAccountAttributes",
+                "ec2:ModifyInstanceAttribute",
+                "ec2:DescribeInstanceStatus"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
